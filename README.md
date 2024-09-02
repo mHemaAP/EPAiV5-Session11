@@ -122,6 +122,8 @@ The '**PolygonIterator**' class is an internal class used by the Polygons class 
 - **`__iter__()`**: Returns the iterator itself.
 - **`__next__()`**: Returns the next polygon in the sequence or raises a StopIteration exception when all polygons have been iterated over.
 
+## **Test Results**
+![Test Results from Local PC](localPC_tests_passed.JPG)
 
 ## Conclusion
 The Polygons library provides a powerful yet simple framework for working with regular polygons in Python. It offers easy-to-use methods to calculate essential geometric properties, implements lazy evaluation for efficient computations, and includes an iterator to work with sequences of polygons. This library can be particularly useful in mathematical computations, simulations, and any application requiring precise geometric analysis.
