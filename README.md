@@ -1,4 +1,4 @@
-# EPAiV5-Session10 - Lazy Evaluation and Iterator - Iterability in Polygon Module
+# EPAiV5-Session11 - Lazy Evaluation and Iterator - Iterability in Polygon Module
 
 ## Overview
 The '**polygons.py**' Python library provides a comprehensive framework for working with regular polygons, which are geometric shapes with equal sides and angles. This library includes two primary classes: '**Polygon**' and '**Polygons**'. The '**Polygon**' class represents a single polygon, defined by the number of sides ('**n**') and the circumradius ('**R**')—the distance from the center to any vertex. The '**Polygons**' class represents a sequence of polygons, all sharing the same circumradius but with varying numbers of sides.
